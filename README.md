@@ -1,4 +1,4 @@
 # Rz Rasel - Flutter Tutorial One
 Rz Rasel - Flutter Tutorial One
 
-[Rz Rasel - Flutter Tutorial One](rzrasel-fluttertutorial-one.github.io/index)
+[Rz Rasel - Flutter Tutorial One](https://rzrasel.github.io/rzrasel-flutterpubtutorial-one/)
