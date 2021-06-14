@@ -6,17 +6,19 @@ const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "e10360a95bc6cd14689b9fc453749997",
+"assets/NOTICES": "ae9f8effa37086df819b67ec5c99984a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f0cb0978f18e37824ebe1b4f8cb79b49",
-"/": "f0cb0978f18e37824ebe1b4f8cb79b49",
+"index.html": "439785c1ae9200b8e65dabaab44cb92d",
+"/": "439785c1ae9200b8e65dabaab44cb92d",
+"LICENSE": "fb2d5c979903cce7982cf2b1d152d313",
 "main.dart.js": "1d931dff1dfe0c694d92ec1a34c19790",
 "manifest.json": "9432f3169231df869a380175565e0ecc",
+"README.md": "d5ed53a47636c77ae71bc4450b9f32a5",
 "version.json": "6d85168016f4814f4228f583538a0b19"
 };
 
